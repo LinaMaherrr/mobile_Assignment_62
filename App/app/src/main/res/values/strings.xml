@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="hint_title">Recipe Title</string>
+    <string name="hint_ingredients">Ingredients</string>
+    <string name="hint_category">Category</string>
+
+    <string name="btn_add_recipe">Add Recipe</string>
+    <string name="label_search">Search</string>
+    <string name="label_search_line1">Choose a category and press Filter.</string>
+    <string name="label_search_line2">Press Show All to display all recipes.</string>
+
+    <string name="btn_filter">Filter</string>
+    <string name="btn_show_all">Show All</string>
+</resources>
